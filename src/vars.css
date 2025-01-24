@@ -1,4 +1,12 @@
+/* Create color and font variables */
 :root {
     /* Colours */
-    --colors-text: #fff;
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-seconday: #19376d;
+    --color-dark: #0b22447;
+    --color-bg: black;
+
+    /* Fonts */
+    --font-roboto: "Roboto";
 }
