@@ -2,7 +2,8 @@
 :root {
     /* Colours */
     --color-text: #fff;
-    --color-primary: #576cbc;
+    --btn-color: black;
+    --color-primary: #ffffff;
     --color-seconday: #19376d;
     --color-dark: #0b22447;
     --color-bg: black;
