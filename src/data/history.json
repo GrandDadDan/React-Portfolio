@@ -1,0 +1,27 @@
+
+[
+    {
+        "role": "FullStack Developer",
+        "organisation": "Freelance",
+        "startDate": "Nov 2022",
+        "endDate": "Present",
+        "experiences":["Develop Responsive Web Applications for Personal Clients", "Created a Real-Time Chat Application with User Login and Registration.", "Built a Social Media Clone Application."],
+        "imageSrc": "favicon.ico"
+    },
+    {
+        "role": "Motion Graphic Designer",
+        "organisation": "Cardova Trading",
+        "startDate": "Apr 2023",
+        "endDate": "Present",
+        "experiences":["Designing and animating complex graphics for Woolworths, Expresso, and Clover.", "Collaborating with stakeholders and teams within the department."],
+        "imageSrc": "cardova.png"
+    },
+    {
+        "role": "Motion Graphic Designer Intern",
+        "organisation": "Cardova Trading",
+        "startDate": "Nov 2022",
+        "endDate": "Apr 2023",
+        "experiences":["6 Months on the job graphics training."],
+        "imageSrc": "cardova.png"
+    }
+]

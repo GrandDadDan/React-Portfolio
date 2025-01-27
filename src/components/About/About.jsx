@@ -15,14 +15,14 @@ export const About = () => {
             <img src={getImageUrl("htmlImage.png")} width={100} alt="" />
         <div className={styles.aboutItemText}>
         <h3>Frontend Developer</h3>
-        <p>I am a self-taught frontend developer with freelancing experience in building responsive and optimized sites.</p>
+        <p>Self taught in building responsive and optimized frontend websites.</p>
         </div>
             </li>
         <li className={styles.aboutItem}>
             <img src={getImageUrl("serverImage.png")} width={100} alt="" />
         <div className={styles.aboutItemText}> 
         <h3>Backend Developer</h3>
-        <p>I am a self taught developer in building server side applications using APIs and databases.</p>
+        <p>Self taught in backend development using APIs and databases systems.</p>
         </div>
             </li >
         <li className={styles.aboutItem}>
