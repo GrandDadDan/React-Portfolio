@@ -2,7 +2,7 @@
     {
         "title": "Personal Bio Website",
         "imageSrc": "personalbio.png",
-        "description" : "This a website portfolio based entirely out of vanilla javascript, bootstrap, and css",
+        "description" : "This a website portfolio based entirely out of vanilla javascript, bootstrap, and css.",
         "skills": ["Javascript", "CSS", "Node", "Bootstrap"],
         "demo": "https://granddaddan.github.io/personalbiowebsite/",
         "code": "https://github.com/GrandDadDan/personalbiowebsite?tab=readme-ov-file"
@@ -10,14 +10,14 @@
     {
         "title": "Task Tracker",
         "imageSrc": "tasktracker.png",
-        "description" : "This a to do list that uses react for CRUD functions to store items in a list",
+        "description" : "This a to do list that uses react for CRUD functions to store items in a list, and reminders can be set.",
         "skills": ["React", "CSS", "Node"],
         "demo": "https://granddaddan.github.io/React-To-Do-List/",
         "code": "https://github.com/GrandDadDan/React-To-Do-List"
     },
     {
         "title": "React Calculator",
-        "imageSrc": "reactcalulator.png",
+        "imageSrc": "reactcalculator.png",
         "description" : "This a react calculator application which uses the latest react js syntax with css styling for the design.",
         "skills": ["React", "CSS", "Node"],
         "demo": "https://granddaddan.github.io/React-Calculator/",

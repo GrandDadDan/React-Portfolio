@@ -2,10 +2,10 @@
 [
     {
         "role": "FullStack Developer",
-        "organisation": "Freelance",
+        "organisation": "Hands On",
         "startDate": "Nov 2022",
         "endDate": "Present",
-        "experiences":["Develop Responsive Web Applications for Personal Clients", "Created a Real-Time Chat Application with User Login and Registration.", "Built a Social Media Clone Application."],
+        "experiences":["Currently Developing Responsive Web Applications for Personal Clients", "Created a Real-Time Chat Application with User Login and Registration.", "Building a Social Media Clone Application."],
         "imageSrc": "favicon.ico"
     },
     {

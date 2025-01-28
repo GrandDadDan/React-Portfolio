@@ -13,6 +13,7 @@
 
 .content {
     display: flex;
+    gap: 15px;
     flex-direction: column;
     align-items: flex-start;
     color: var(--color-text);
@@ -37,13 +38,29 @@
 
 .contactBtn {
     text-decoration: none;
-    background-color: var(--color-primary);
     color: var(--btn-color);
+    font-size: 40px;
+    font-weight: 600;
     border-radius: 100px;
-    font-size: 30px;
-    font-family: var(--font-roboto);
-    font-weight: 600px;
-    padding: 17px 26px;
+    background: var(--color-primary);
+    padding: 17px 22px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    
+}
+
+.resumeBtn {
+    gap: 15px;
+    text-decoration: none;
+    color: var(--btn-color);
+    display: flex;
+    font-size: 40px;
+    font-weight: 600;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-primary);
+    padding: 17px 22px;
+    width: 200px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
