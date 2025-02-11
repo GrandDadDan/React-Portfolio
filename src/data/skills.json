@@ -28,6 +28,10 @@
     "imageSrc": "mongo.png"
 },
 {
+    "title": "Tailwind",
+    "imageSrc": "tailwind-css-icon.webp"
+},
+{
     "title": "Figma",
     "imageSrc": "figma.png"
 }

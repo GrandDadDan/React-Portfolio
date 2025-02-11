@@ -8,6 +8,14 @@
         "code": "https://github.com/GrandDadDan/personalbiowebsite?tab=readme-ov-file"
     },
     {
+        "title": "React Ecommerce Store",
+        "imageSrc": "ecommerce.png",
+        "description" : "This is a react frontend eccommerce store that I built tailwindcss which shows off my creativity.",
+        "skills": ["React", "CSS", "Node", "Tailwind CSS"],
+        "demo": "https://eleactrashopreactapp.netlify.app/",
+        "code": "https://github.com/GrandDadDan/React-Ecommerce-Store"
+    },
+    {
         "title": "Task Tracker",
         "imageSrc": "tasktracker.png",
         "description" : "This a to do list that uses react for CRUD functions to store items in a list, and reminders can be set.",
@@ -15,7 +23,7 @@
         "demo": "https://granddaddan.github.io/React-To-Do-List/",
         "code": "https://github.com/GrandDadDan/React-To-Do-List"
     },
-    {
+    {                 
         "title": "React Calculator",
         "imageSrc": "reactcalculator.png",
         "description" : "This a react calculator application which uses the latest react js syntax with css styling for the design.",

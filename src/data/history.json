@@ -5,7 +5,15 @@
         "organisation": "Hands On",
         "startDate": "Nov 2022",
         "endDate": "Present",
-        "experiences":["Currently Developing Responsive Web Applications for Personal Clients", "Created a Real-Time Chat Application with User Login and Registration.", "Building a Social Media Clone Application."],
+        "experiences":["Built a fully responsive ecommerce store using tailwindcss and react", "Building a Real-Time Chat Application with User Login and Registration.", "Building a Social Media Clone Application."],
+        "imageSrc": "favicon.ico"
+    },
+    {
+        "role": "Web Developer",
+        "organisation": "Cape Peninsula University of Technology",
+        "startDate": "Jul 2022",
+        "endDate": "Dec 2022",
+        "experiences":["Worked on a bursary management system", "Building a Real-Time Chat Application with User Login and Registration.", "Building a Social Media Clone Application."],
         "imageSrc": "favicon.ico"
     },
     {
