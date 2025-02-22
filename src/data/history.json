@@ -5,17 +5,10 @@
         "organisation": "Hands On",
         "startDate": "Nov 2022",
         "endDate": "Present",
-        "experiences":["Built a fully responsive ecommerce store using tailwindcss and react", "Building a Real-Time Chat Application with User Login and Registration.", "Building a Social Media Clone Application."],
+        "experiences":["Built a fully responsive ecommerce store using tailwindcss and react", "Building a Real-Time Chat Application with User Login and Registration.", "Built a weather app using OpenWeatherAPI."],
         "imageSrc": "favicon.ico"
     },
-    {
-        "role": "Web Developer",
-        "organisation": "Cape Peninsula University of Technology",
-        "startDate": "Jul 2022",
-        "endDate": "Dec 2022",
-        "experiences":["Worked on a bursary management system", "Building a Real-Time Chat Application with User Login and Registration.", "Building a Social Media Clone Application."],
-        "imageSrc": "favicon.ico"
-    },
+    
     {
         "role": "Motion Graphic Designer",
         "organisation": "Cardova Trading",
@@ -23,6 +16,14 @@
         "endDate": "Present",
         "experiences":["Designing and animating complex graphics for Woolworths, Expresso, and Clover.", "Collaborating with stakeholders and teams within the department."],
         "imageSrc": "cardova.png"
+    },
+    {
+        "role": "Web Developer",
+        "organisation": "Cape Peninsula University of Technology",
+        "startDate": "Jul 2022",
+        "endDate": "Dec 2022",
+        "experiences":["Worked on a bursary management system.", "Worked closely with the development team to delivery client specifications using agile methods.  ", "Translated wireframes into web designs using wordpress."],
+        "imageSrc": "favicon.ico"
     },
     {
         "role": "Motion Graphic Designer Intern",

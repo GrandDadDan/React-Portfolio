@@ -4,6 +4,14 @@
         "imageSrc": "personalbio.png",
         "description" : "This a website portfolio based entirely out of vanilla javascript, bootstrap, and css.",
         "skills": ["Javascript", "CSS", "Node", "Bootstrap"],
+        "demo": "https://my-weather-application-dm.netlify.app/",
+        "code": "https://github.com/GrandDadDan/Weather-App"
+    },
+    {
+        "title": "Weather API App",
+        "imageSrc": "weatherapi.png",
+        "description" : "This is a weather application that I made using purely javascript, CSS and HTML",
+        "skills": ["Javascript", "CSS", "Bootstrap"],
         "demo": "https://granddaddan.github.io/personalbiowebsite/",
         "code": "https://github.com/GrandDadDan/personalbiowebsite?tab=readme-ov-file"
     },
